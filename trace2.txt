@@ -1,13 +1,9 @@
-PS D:\Users\francois.admin> tracert zoom.us
+PS C:\Users\francois.admin> tracert zoom.us_2
 
-Tracing route to zoom.us [170.114.10.86]
+Tracing route to zoom.us [170.114.10.83]
 over a maximum of 30 hops:
 
   1     *        *        *     Request timed out.
   2     *        *        *     Request timed out.
   3     *        *        *     Request timed out.
   4     *        *        *     Request timed out.
-  4     *        *        *     Request timed out.
-  4     *        *        *     Request timed out.
-
-En toe verander ek dit
